@@ -38,5 +38,5 @@ This project does not have any tests at the moment. If you want to write some te
 
 ## Questions
 
-If you have any questions about this project, you can contact me at sameer.s@outlook.com. You can also follow me on GitHub at https://github.com/samunicode.
+If you have any questions about this project, you can contact me at sc299792458@gmail.com. You can also follow me on GitHub at https://github.com/samunicode.
  
