@@ -22,7 +22,7 @@ git clone https://github.com/samunicode/sameer-s_resume.git
 
 ## Usage
 
-To use this project, you need to open the index.html file in your browser. You can also use a live server extension if you have one installed in your code editor. You can then view my resume and click on the different sections to see more details.
+To use this project, you need to open the index.html file in your browser. You can also use a live server extension if you have one installed in your code editor like VSCode. You can then view my resume and click on the different sections to see more details.
 
 ## License
 
