@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a repository that contains my resume as a web developer. I built this project to showcase my skills and experience in HTML, CSS, JavaScript and Bootstrap. This project solves the problem of having a boring and plain resume that does not stand out. I learned how to use Tailwind components and utilities to create a responsive and attractive resume. This project stands out because it is interactive and easy to navigate.
+This is a repository that contains my resume as a web developer. I built this project to showcase my skills and experience in HTML, CSS, JavaScript. This project solves the problem of having a boring and plain resume that does not stand out. I learned how to use Tailwind components and utilities to create a responsive and attractive resume. This project stands out because it is interactive and easy to navigate.
 
 ## Table of Contents
 
