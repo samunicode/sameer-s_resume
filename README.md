@@ -33,5 +33,5 @@ This project is open for contributions. If you want to contribute, you can fork 
 
 ## Questions
 
-If you have any questions about this project, you can contact me at sc299792458@gmail.com. You can also follow me on GitHub at https://github.com/samunicode.
+If you have any questions about this project, you can contact me at 15.dev.sam@gmail.com. You can also follow me on GitHub at https://github.com/samunicode.
  
