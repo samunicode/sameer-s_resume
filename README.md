@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a repository that contains my resume as a web developer. I built this project to showcase my skills and experience in HTML, CSS, JavaScript. This project solves the problem of having a boring and plain resume that does not stand out. I learned how to use Tailwind components and utilities to create a responsive and attractive resume. This project stands out because it is interactive and easy to navigate.
+This is a repository that contains an ❄️Minimalistic Resume : Built using HTML, Tailwind CSS, & JS. I built this project to showcase my skills and experience in HTML, CSS, JavaScript. This project solves the problem of having a boring and plain resume that does not stand out. I learned how to use Tailwind components and utilities to create a responsive and attractive resume. This project stands out because it is interactive and easy to navigate.
 
 ## Table of Contents
 
@@ -10,7 +10,6 @@ This is a repository that contains my resume as a web developer. I built this pr
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -22,7 +21,7 @@ git clone https://github.com/samunicode/sameer-s_resume.git
 
 ## Usage
 
-To use this project, you need to open the index.html file in your browser. You can also use a live server extension if you have one installed in your code editor like VSCode. You can then view my resume and click on the different sections to see more details.
+To use this project, you need to open the index.html file in your browser. You can also use a live server extension if you have one installed in your code editor like VSCode. You can then view this resume template and click on the different sections to see more details.
 
 ## License
 
@@ -31,10 +30,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Contributing
 
 This project is open for contributions. If you want to contribute, you can fork this repository and make a pull request with your changes. Please follow the code of conduct and the contribution guidelines.
-
-## Tests
-
-This project does not have any tests at the moment. If you want to write some tests, you can use a testing framework like Jest or Mocha.
 
 ## Questions
 
